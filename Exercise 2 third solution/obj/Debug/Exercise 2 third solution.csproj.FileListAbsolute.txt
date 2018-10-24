@@ -1,0 +1,7 @@
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\bin\Debug\Exercise 2 third solution.exe.config
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\bin\Debug\Exercise 2 third solution.exe
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\bin\Debug\Exercise 2 third solution.pdb
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\obj\Debug\Exercise 2 third solution.csprojAssemblyReference.cache
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\obj\Debug\Exercise 2 third solution.csproj.CoreCompileInputs.cache
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\obj\Debug\Exercise 2 third solution.exe
+E:\munka\Morris\Exercise 2 third solution\Exercise 2 third solution\obj\Debug\Exercise 2 third solution.pdb
